@@ -20,12 +20,13 @@
 
 #### <img src= "https://www.iconsdb.com/icons/preview/pink/light-bulb-2-xxl.png" alt="Upload" width="20"/>  Fun Fact : I have a degree in Medical Lab Science, but don’t ask me to draw blood—I’d rather debug a system than poke a vein 🤭
 
-## <img src= "https://custom-progress-bar.com/cdn/images/19/hello-kitty-wink-custom-progress-bar-m.png" alt="Upload" width="50"/> ℳℴ𝓇ℯ 𝒜𝒷ℴ𝓊𝓉 ℳℯ  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEw4Dpt68EwtdCt53tXmV-Swyia0jMvVQ1DSf8HwAYahXBFPrxgYM7h8iWbkh0lDhb-I&usqp=CAU" alt="Upload" width="25"/>
+                      
+## <img src="https://custom-progress-bar.com/cdn/images/19/hello-kitty-wink-custom-progress-bar-m.png" alt="Upload" width="50"/> ℳℴ𝓇ℯ 𝒜𝒷ℴ𝓊𝓉 ℳℯ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEw4Dpt68EwtdCt53tXmV-Swyia0jMvVQ1DSf8HwAYahXBFPrxgYM7h8iWbkh0lDhb-I&usqp=CAU" alt="Upload" width="25"/>
 
 - I'm currently working on improving my skills in Python.
 - From the last challenge, I learned how to fork a repository, work on my own copy, and open a pull request — it was a fun and simple way to practice GitHub basics!
 - My goal in the tech team is to help build effective and user friendly learning products that can help people.
-- A recent challenge I faced was dealing with Pcodestyle, but I learned to resolve it.
+- A recent challenge I faced was dealing with PEP8 (Python code style), but I learned how to resolve it.
 
 
 #### <img src= "https://github.com/user-attachments/assets/c2a23fa0-5486-4cbe-88f8-6d677af389fa" alt="Upload" width="20"/> Fav Quotes ⤵️
