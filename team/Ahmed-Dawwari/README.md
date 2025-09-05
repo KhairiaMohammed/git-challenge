@@ -1,39 +1,38 @@
-<h1 align="center">Ahmed Dawwari </h1>
+<h1 align="center">💡 What I Learned from Challenge 1 💡</h1>
+
 <div align="center">
-  
-  <!-- Avatar or Emoji -->
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" alt="Avatar" style="border-radius: 50%;" />
-  
-  <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=040E13&width=435&lines=Welcome+to+my+personal+README!" alt="Typing SVG" /></a>
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="80" alt="GitHub Icon"/>
 </div>
 
 ---
 
-## 🧑‍💼 About Me
+## 🛠️ Tools and Technologies Used in Solution 1
 
-- 🧑‍💻 **Favorite Language:** Python (I love experimenting with new technologies)
-- 🎯 **My Goal:** I use programming to build solutions that make people's lives easier and inspire new developers
-- 😄 **Fun Fact:** I’m always trying to learn something new and improve myself 📖
+- **GitHub**  
+  I learned how to use GitHub for code management, collaboration, and creating professional README files.
+
+- **Markdown**  
+  I used Markdown formatting for organizing the README, including headings, lists, links, horizontal lines, and embedding images and badges.
+
+- **HTML in Markdown**  
+  I combined HTML elements such as `<img>` and `<div>` within Markdown to improve the visual layout and presentation.
+
+- **External Services**  
+  I utilized services like [Typing SVG](https://readme-typing-svg.demolab.com/) and [GitHub Readme Stats](https://github-readme-stats.vercel.app/) to display dynamic and attractive information.
 
 ---
 
-## 💡 Favorite Quote
+## 💡 Learning Summary
 
-> "The biggest secret to success is to start now, not to wait for perfection!"  
-> <sub>— Ahmed Dawari</sub>
+From this challenge, I learned how to:
+- Format a README to be clear and visually appealing.
+- Display stats and badges dynamically.
+- Combine technical content with personal info and quotes.
+- Use GitHub, Markdown, and HTML together to build a professional profile.
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Amiri&pause=1000&color=AC6EFF&center=true&vCenter=true&width=380&lines=Welcome+to+my+coding+world;Let's+create+and+learn+together!" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedyahyay&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://wasmenia.com/_next/image?url=https%3A%2F%2Fstrapi.wasmenia.com%2Fuploads%2FTuwaiq_Academy_2_241871f064.svg&w=640&q=75" width="90" alt="Tuwaiq Academy Logo"/>
+  <p>✨ This README reflects my creativity and technical growth as a learner at <b>Tuwaiq Academy</b>! ✨</p>
 </div>
-
----
-
-<p align="center">
-  <a href="mailto:ahmedadwari@hotmail.com"><img src="https://img.shields.io/badge/Contact%20Me-Email-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/ahmed-dawwari-227b05221"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-</p>
