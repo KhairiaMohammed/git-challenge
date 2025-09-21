@@ -57,6 +57,25 @@
 <br/>
 <hr/> 
 
+<div align="center">
+  <h2>✨ The technical skills that i working on it right now ✨<h2>
+  <br>
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=c&size=100">
+  <img src="https://skillicons.dev/icons?i=git&size=100">
+  <img src="https://skillicons.dev/icons?i=github&size=100">
+  <img src="https://skillicons.dev/icons?i=linux&size=100">
+  <img src="https://skillicons.dev/icons?i=bash&size=100">
+</p>
+  <br/>
+</div>
+
+<div align="center">
+  <h2>💪🏻 What I learned from last challenge 💪🏻<h2>
+  <br>
+<img width="6000" height="3375" alt="git_command" src="https://github.com/user-attachments/assets/bfd483fc-3710-4a11-a930-84f623182c8f" />
+    <br/>
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
